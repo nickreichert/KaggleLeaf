@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 13 08:29:10 2017
 
-@author: Nick
-"""
 
 import pandas as pd
 from shutil import copyfile
